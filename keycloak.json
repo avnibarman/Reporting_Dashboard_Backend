@@ -1,0 +1,10 @@
+{
+  "realm": "master",
+  "realm-public-key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCc/JQ1+BZxJT3uJ99POY4ZFf8Q6vG25X0VaPmoaLE6RD0mJ2vJbgDQnwPZMj4X6C0w+xNbTyKnA8yI/q63Ef1aeMVmzOf5f0MBUPnE01PoFryfKkusa74yBeHkQ30Z5kuateBah1xSgbRkB8VIH77ISK+emNIBJ/A/2z83Lj4z1wIDAQAB",
+  "auth-server-url": "https://pp-4gcc-keycloak-v15.aeriscloud.com/auth",
+  "ssl-required": "all",
+  "resource": "preprod-portal",
+  "credentials": {
+    "secret": "c2e139e6-c8e8-4b63-80f6-9053ed15e27b"
+  }
+}

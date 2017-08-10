@@ -1,0 +1,68 @@
+{
+  "name": "aeris-webapi-seed",
+  "version": "0.1.1",
+  "author": "Aeris",
+  "description": "Aeris WebApi Seed",
+  "bin": "server.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "Aeris WebApi Seed contributors",
+      "url": "https://bitbucket.org/aeriscom/aeris-webapi-seed/commits/all"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/aeriscom/aeris-webapi-seed.git"
+  },
+  "publishConfig": {
+    "registry": "http://sinopia.aeriscloud.com:8081"
+  },
+  "keywords": [
+    "hapijs",
+    "nodejs"
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "axios": "0.12.0",
+    "boom": "3.2.1",
+    "bunyan": "^1.8.1",
+    "config": "1.21.0",
+    "convict": "1.4.0",
+    "create-react-class": "^15.5.3",
+    "gulp": "3.9.1",
+    "hapi": "http://sinopia.aeriscloud.com:8081/hapi/-/hapi-13.4.1.tgz",
+    "hapi-auth-jwt": "4.0.0",
+    "hapi-auth-jwt2": "7.0.1",
+    "hapi-dash": "0.0.4",
+    "joi": "10.5.0",
+    "jsonwebtoken": "7.4.1",
+    "knex": "https://registry.npmjs.org/knex/-/knex-0.13.0.tgz",
+    "lodash": "4.13.1",
+    "logger": "0.0.1",
+    "mysql": "https://registry.npmjs.org/mysql/-/mysql-2.13.0.tgz",
+    "node": "https://registry.npmjs.org/node/-/node-0.0.0.tgz",
+    "nodemon": "1.11.0",
+    "oracle": "0.4.1",
+    "oracledb": "1.13.1",
+    "os-tmpdir": "https://registry.npmjs.org/os-tmpdir/-/os-tmpdir-1.0.2.tgz",
+    "path": "0.12.7",
+    "querystring": "0.2.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "recharts": "^1.0.0-alpha.1",
+    "sqlite3": "3.1.8",
+    "uuid": "3.0.1"
+  },
+  "devDependencies": {
+    "gulp-jshint": "2.0.4",
+    "gulp-webserver": "0.9.1",
+    "jshint": "2.9.4",
+    "jshint-stylish": "2.2.1"
+  },
+  "optionalDependencies": {}
+}
