@@ -1,6 +1,7 @@
 ## AERIS Reporting Dashboard Backend
 
-Final Result using API
+This is the backend of a platform that measures how AMP (Aeris Mobility Platform), a cloud and embedded and mobile offering for vehicles, is behaving from KPI perspective. It uses Node.js, SQL, and a React.js frontend (see Reporting_Dashboard_Frontend).
+
 ![first](https://user-images.githubusercontent.com/17935788/29504452-ae0e2542-85f4-11e7-8f4a-8e850e44e712.jpg)
 
 ![second](https://user-images.githubusercontent.com/17935788/29504466-c580295a-85f4-11e7-9140-e8a0f54449da.jpg)
